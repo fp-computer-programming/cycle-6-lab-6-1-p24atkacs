@@ -12,6 +12,7 @@ Write a statement that converts "string" to an array.
 
 
 """
+
 # Author: Andrew Tkacs
 
 # Create an array that contains the numbers 1 to 5
